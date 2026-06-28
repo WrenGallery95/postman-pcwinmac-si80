@@ -1,4 +1,4 @@
-# 
+# Avancé GitKraken flux de travail pour Mac OS | Officiel GitKraken flux de travail pour PC Windows. Avec constructeur d'images et rebase interactif — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
